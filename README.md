@@ -49,4 +49,4 @@ HAVING SUM(orcamento) > 20000.00;
 
 SELECT nome, orcamento
 FROM projetos
-ORDER BY orcamento DESC;
+    ORDER BY orcamento DESC
